@@ -4,3 +4,4 @@
 .Ruserdata
 *.DS_Store #* means 'wildcard', says look for anything before .DS_Store, i.e. any folders before this
 *.csv
+econ_245M_lecture_2.Rproj
